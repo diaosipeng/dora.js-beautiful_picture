@@ -1,0 +1,31 @@
+{
+  "name": "dorajs-mei-nv-tu-pian-tui-jian",
+  "displayName": "美女图片推荐",
+  "version": "1.0.0",
+  "uuid": "eba5867a-32a3-4a9e-9327-57e05cd937dc",
+  "description":"this is an app for user to fetch the beautiful girl picture",
+  "icon": "/assets/icon.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "dsp"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": null
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.8.1"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {}
+}
