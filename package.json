@@ -3,7 +3,7 @@
   "displayName": "美女图片推荐",
   "version": "1.0.0",
   "uuid": "eba5867a-32a3-4a9e-9327-57e05cd937dc",
-  "description":"this is an app for user to fetch the beautiful girl picture",
+  "description":"this is an app for users to fetch the beautiful girl picture in dora.js",
   "icon": "/assets/icon.png",
   "prefs": "assets/prefs.json",
   "main": "main.js",
@@ -14,7 +14,7 @@
   "engineStrick": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/diaosipeng/dora.js-beautiful_picture.git"
   },
   "updates": "",
   "contributes": {
